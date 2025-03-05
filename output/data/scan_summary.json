@@ -1,0 +1,12 @@
+{
+    "timestamp": "2025-03-05 21:29:35",
+    "groups_scanned": 1,
+    "successful_scans": 0,
+    "new_victims": 0,
+    "groups": {
+        "lockbit": {
+            "success": false,
+            "victims_found": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "lockbit3753ekiocyo5epmpy6klmejchjtzddoekjlnt6mu3qh4de2id.onion": {
+        "success": 3,
+        "failure": 0,
+        "success_rate": 1.0,
+        "last_check": "2025-03-05 21:10:15 UTC"
+    },
+    "lockbit3g3ohd3katajf6zaehxz4h4cnhmz5t735zpltywhwpc6oy3id.onion": {
+        "success": 0,
+        "failure": 0,
+        "success_rate": 0.0
+    },
+    "lockbit3olp7oetlc4tl5zydnoluphh7fvdt5oa6arcp2757r7xkutid.onion": {
+        "success": 0,
+        "failure": 0,
+        "success_rate": 0.0
+    },
+    "lockbit435xk3ki62yun7z5nhwz6jyjdp2c64j5vge536if2eny3gtid.onion": {
+        "success": 0,
+        "failure": 0,
+        "success_rate": 0.0
+    },
+    "lockbit4lahhluquhoka3t4spqym2m3dhe66d6lr337glmnlgg2nndad.onion": {
+        "success": 0,
+        "failure": 0,
+        "success_rate": 0.0
+    },
+    "lockbit6knrauo3qafoksvl742vieqbujxw7rd6ofzdtapjb4rrawqad.onion": {
+        "success": 0,
+        "failure": 0,
+        "success_rate": 0.0
+    },
+    "lockbit7ouvrsdgtojeoj5hvu6bljqtghitekwpdy3b6y62ixtsu5jqd.onion": {
+        "success": 0,
+        "failure": 0,
+        "success_rate": 0.0
+    }
+}
